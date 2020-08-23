@@ -1,0 +1,84 @@
+{
+    "anims": [
+        {
+            "key": "izquierda",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 8,
+            "frames": [
+                {
+                    "key": "atlas_personaje",
+                    "frame": "izquierda1"
+                },
+                {
+                    "key": "atlas_personaje",
+                    "frame": "izquierda2"
+                },
+                {
+                    "key": "atlas_personaje",
+                    "frame": "izquierda3"
+                }
+            ]
+        },
+        {
+            "key": "derecha",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 8,
+            "frames": [
+                {
+                    "key": "atlas_personaje",
+                    "frame": "derecha1"
+                },
+                {
+                    "key": "atlas_personaje",
+                    "frame": "derecha2"
+                },
+                {
+                    "key": "atlas_personaje",
+                    "frame": "derecha3"
+                }
+            ]
+        },
+        {
+            "key": "abajo",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 8,
+            "frames": [
+                {
+                    "key": "atlas_personaje",
+                    "frame": "abajo1"
+                },
+                {
+                    "key": "atlas_personaje",
+                    "frame": "abajo2"
+                },
+                {
+                    "key": "atlas_personaje",
+                    "frame": "abajo3"
+                }
+            ]
+        },
+        {
+            "key": "arriba",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 8,
+            "frames": [
+                {
+                    "key": "atlas_personaje",
+                    "frame": "arriba1"
+                },
+                {
+                    "key": "atlas_personaje",
+                    "frame": "arriba2"
+                },
+                {
+                    "key": "atlas_personaje",
+                    "frame": "arriba3"
+                }
+            ]
+        }
+    ]
+}
